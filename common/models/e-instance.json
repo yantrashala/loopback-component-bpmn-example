@@ -1,0 +1,12 @@
+{
+  "name": "EInstance",
+  "base": "Instance",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

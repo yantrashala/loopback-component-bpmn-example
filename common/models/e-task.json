@@ -1,0 +1,12 @@
+{
+  "name": "ETask",
+  "base":"Task",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
